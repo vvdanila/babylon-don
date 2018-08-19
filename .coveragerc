@@ -1,0 +1,3 @@
+[run]
+source = babylon_don
+omit = babylon_don/test*
